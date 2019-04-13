@@ -11,6 +11,6 @@ public class InlineTest {
         double c = 5.5;
 
 
-        a(a, b, c);//zmienia na jakos kod.
+        int r=5;
     }
 }
